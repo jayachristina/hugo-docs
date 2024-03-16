@@ -80,6 +80,7 @@ taxonomies:
   category: categories
   author: authors
 markup:
+  defaultMarkdownHandler: asciidocext
   _merge: deep
   asciidocExt:
     attributes: {}
